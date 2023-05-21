@@ -469,7 +469,6 @@ button {
 .landing-work .container .content-work .card-w {
     display: flex;
     background-color: var(--header-color);
-    width: 400px;
     height: fit-content;
     padding: 1rem;
     box-shadow: 0 0 5px hsla(0, 0%, 0%, .1);
